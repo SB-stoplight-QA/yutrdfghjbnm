@@ -1,0 +1,10 @@
+title: model09876
+x-stoplight:
+  id: 5m9cl8n9h08tc
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: f5ymbn91kbdyb
+description: model9876
