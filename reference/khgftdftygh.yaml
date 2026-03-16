@@ -152,6 +152,144 @@ paths:
       description: Create a new user.
       x-stoplight:
         id: 4f6aiev47zs9z
+  '/hgjkl,{hgjkl;}vbnm,l.;{hbnjmk,l.}ghvjnkm,/ghjnkml,;/hnjkk':
+    parameters:
+      - schema:
+          type: string
+        name: hgjkl;
+        in: path
+        required: true
+      - schema:
+          type: string
+        name: 'hbnjmk,l.'
+        in: path
+        required: true
+      - schema:
+          type: string
+        name: hgjkl;
+        in: path
+        required: true
+      - schema:
+          type: string
+        name: 'hbnjmk,l.'
+        in: path
+        required: true
+      - schema:
+          type: string
+        name: hgjkl;
+        in: path
+        required: true
+      - schema:
+          type: string
+        name: 'hbnjmk,l.'
+        in: path
+        required: true
+      - schema:
+          type: string
+        name: hgjkl;
+        in: path
+        required: true
+      - schema:
+          type: string
+        name: 'hbnjmk,l.'
+        in: path
+        required: true
+      - schema:
+          type: string
+        name: hgjkl;
+        in: path
+        required: true
+      - schema:
+          type: string
+        name: 'hbnjmk,l.'
+        in: path
+        required: true
+      - schema:
+          type: string
+        name: hgjkl;
+        in: path
+        required: true
+      - schema:
+          type: string
+        name: 'hbnjmk,l.'
+        in: path
+        required: true
+      - schema:
+          type: string
+        name: hgjkl;
+        in: path
+        required: true
+      - schema:
+          type: string
+        name: 'hbnjmk,l.'
+        in: path
+        required: true
+      - schema:
+          type: string
+        name: hgjkl;
+        in: path
+        required: true
+      - schema:
+          type: string
+        name: 'hbnjmk,l.'
+        in: path
+        required: true
+    get:
+      summary: Your GET endpoint
+      tags: []
+      responses: {}
+      operationId: 'get-hgjkl,-hgjkl;-vbnm,l.;-hbnjmk,l.-ghvjnkm,-ghjnkml,;-hnjkk'
+      x-stoplight:
+        id: nva0hmsp5636i
+    patch:
+      summary: Your PATCH endpoint
+      tags: []
+      responses: {}
+      operationId: 'patch-hgjkl,-hgjkl;-vbnm,l.;-hbnjmk,l.-ghvjnkm,-ghjnkml,;-hnjkk'
+      x-stoplight:
+        id: 2sqjp94k24jzu
+    options:
+      summary: Your OPTIONS endpoint
+      tags: []
+      responses: {}
+      operationId: 'options-hgjkl,-hgjkl;-vbnm,l.;-hbnjmk,l.-ghvjnkm,-ghjnkml,;-hnjkk'
+      x-stoplight:
+        id: e6giyfhu1j5mq
+    trace:
+      summary: Your TRACE endpoint
+      tags: []
+      responses: {}
+      operationId: 'trace-hgjkl,-hgjkl;-vbnm,l.;-hbnjmk,l.-ghvjnkm,-ghjnkml,;-hnjkk'
+      x-stoplight:
+        id: my7tnbqj9whze
+    delete:
+      summary: Your DELETE endpoint
+      tags: []
+      responses: {}
+      operationId: 'delete-hgjkl,-hgjkl;-vbnm,l.;-hbnjmk,l.-ghvjnkm,-ghjnkml,;-hnjkk'
+      x-stoplight:
+        id: p8f6mjc5fatrz
+    post:
+      summary: Your POST endpoint
+      tags: []
+      responses: {}
+      operationId: 'post-hgjkl,-hgjkl;-vbnm,l.;-hbnjmk,l.-ghvjnkm,-ghjnkml,;-hnjkk'
+      x-stoplight:
+        id: qtilwoepv75s8
+    put:
+      summary: Your PUT endpoint
+      tags: []
+      responses: {}
+      operationId: 'put-hgjkl,-hgjkl;-vbnm,l.;-hbnjmk,l.-ghvjnkm,-ghjnkml,;-hnjkk'
+      x-stoplight:
+        id: nbn72yn18ieu2
+    head:
+      summary: Your HEAD endpoint
+      tags: []
+      responses: {}
+      operationId: 'head-hgjkl,-hgjkl;-vbnm,l.;-hbnjmk,l.-ghvjnkm,-ghjnkml,;-hnjkk'
+      x-stoplight:
+        id: yfcqsb0di4v09
 components:
   schemas:
     User:
