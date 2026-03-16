@@ -4,6 +4,7 @@ x-stoplight:
 info:
   title: 3.0Yml
   version: '1.0'
+  description: 3.0 yaml
 servers:
   - url: 'http://localhost:3000'
 paths:

@@ -5,7 +5,8 @@
   },
   "info": {
     "title": "3.0Json",
-    "version": "1.0"
+    "version": "1.0",
+    "description": "testing process"
   },
   "servers": [
     {

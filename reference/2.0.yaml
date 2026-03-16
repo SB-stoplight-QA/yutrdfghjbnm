@@ -4,6 +4,7 @@ x-stoplight:
 info:
   title: '2.0'
   version: '1.0'
+  description: testing process
 host: 'localhost:3000'
 schemes:
   - http

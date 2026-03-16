@@ -4,7 +4,8 @@ x-stoplight:
 info:
   title: khgftdftygh
   version: '1.0'
-  description: mofreftgyuhj
+  description: |
+    mofreftgyuhj 3.1 yaml
 servers:
   - url: 'http://localhost:3000'
 paths:
